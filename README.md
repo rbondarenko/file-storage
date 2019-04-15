@@ -16,7 +16,7 @@ RESTFul API spring-boot application that provides the following APIs:
 
 ### How it work
 - Build
-    > mvn clean package`
+    > mvn clean package
 - Run
     > java -jar web/target/web-0.1.0-SNAPSHOT.jar
 - Post file with meta data information
